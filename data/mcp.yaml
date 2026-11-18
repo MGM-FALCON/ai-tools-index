@@ -8,6 +8,7 @@ groups:
         url: https://quelllm.fr/
         repo: MGM-FALCON/quelllm-mcp
         description: Query LLM metadata and estimate local memory and API costs.
+        added: 2026-11-18
       - name: GitHub MCP Server
         dex: 30
         url: https://github.com/github/github-mcp-server
